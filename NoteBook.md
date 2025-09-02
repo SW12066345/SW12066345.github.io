@@ -46,9 +46,9 @@ Copy the guided notes below into your notebook
 | Text             | Displays text                                                  |                                           |
 | Image.network    | Displays images from a URL                                                  |                                           |
 
-| Padding    |                    |                     |
+| Padding    |  Adds space around a widget                   |                     |
 
-| Center      |                    |                     |
+| Center      |  Centers its child                  |                     |
 
 ---
 
