@@ -41,7 +41,7 @@ Copy the guided notes below into your notebook
 | Navigator        |                                                  |                                           |
 | AppBar           |                                                  |                                           |
 | Column           |  Vertical layout                                               |                                           |
-| Row              | Horontal layout                                                                                                          |  Wraps context with padding, margin, or color
+| Row              | Horontal layout                                                                                                          |  
 | Container        |Wraps context with padding, margin, or color                                              |                                           |
 | Text             | Displays text                                                  |                                           |
 | Image.network    |                                                  |                                           |
