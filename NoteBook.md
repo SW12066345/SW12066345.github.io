@@ -33,13 +33,13 @@ Copy the guided notes below into your notebook
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
-| Scaffold         |                                                  |                                           |
-| StatelessWidget  |                                                  |                                           |
-| StatefulWidget   |                                                  |                                           |
-| Navigator        |                                                  |                                           |
-| AppBar           |                                                  |                                           |
+| Widget           Basic building of a Flutter app, Everything is a widget                                                |                                           |
+| MaterialApp      | The root of the app, Sets up toutes and themes.                                                |                                           |
+| Scaffold         |Provides basic visual layout-like a header,body,floatin button                                                 |                                           |
+| StatelessWidget  |A widget that dosent change                                                  |                                           |
+| StatefulWidget   |A widget that can change over time                                                  |                                           |
+| Navigator        | Manages screen transitions                                                  |                                           |
+| AppBar           | Top navigation bar                                                |                                           |
 | Column           |  Vertical layout                                               |                                           |
 | Row              | Horontal layout                                                                                                          |  
 | Container        |Wraps context with padding, margin, or color                                              |                                           |
