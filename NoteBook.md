@@ -33,13 +33,13 @@ Copy the guided notes below into your notebook
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           Basic building of a Flutter app, Everything is a widget       Text, Image, Container, Column                                             |                                           |
-| MaterialApp      | The root of the app, Sets up toutes and themes.             Found in main,dart                                         |                                           |
-| Scaffold         |Provides basic visual layout-like a header,body,floatin button   Each screen uses it                                              |                                           |
-| StatelessWidget  |A widget that dosent change                                      Most of the screen files                                                |                                           |
-| StatefulWidget   |A widget that can change over time                               Used in MyHomePage                                        |                                           |
-| Navigator        | Manages screen transitions                                  Navigator,pushNamed(context, "/page2");                                                                                  |                                          |
-| AppBar           | Top navigation bar                                          Title of each page appears here                                            |                                           |
+| Widget           Basic building of a Flutter app, Everything is a widget  Text, Image, Container, Column                                             |                                           |
+| MaterialApp      | The root of the app, Sets up toutes and themes.        Found in main,dart                                         |                                           |
+| Scaffold         |Provides basic visual layout-like a header,body,floatin button Each screen uses it                                              |                                           |
+| StatelessWidget  |A widget that dosent change                          Most of the screen files                                                |                                           |
+| StatefulWidget   |A widget that can change over time                    Used in MyHomePage                                        |                                           |
+| Navigator        | Manages screen transitions                    Navigator,pushNamed(context, "/page2");                                                                                  |                                          |
+| AppBar           | Top navigation bar                             Title of each page appears here                                            |                                           |
 | Column           |  Vertical layout                                               |                                           |
 | Row              | Horontal layout                                                                                                          |  
 | Container        |Wraps context with padding, margin, or color                                              |                                           |
