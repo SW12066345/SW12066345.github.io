@@ -1,7 +1,9 @@
 ## Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
-  - [Practice](#practice)
+- Flutter Notes
+  - What is flutter Notes?
+  - pratice
+  - Key Terms and Deffinations
+  - Notebook style guide
 - [Day 2](#day-2)
 
 ## Markdown Style Guide for Coding Notebooks
@@ -17,7 +19,43 @@ This ensures your notes are easy for you (and others) to read later.
 - `##` for each day or major topic.  
 - `###` for subsections (like "Notes", "Practice", "Reflections").  
 
-✅ Example:
+Copy the guided notes below into your notebook
+
+## Flutter Notes
+
+### What is Flutter? A framework made by Google for building apps that work on web, Android, and iOS - with one codebase
+- Definition:
+- Why is it useful? Uses the Dart programming language.
+
+---
+
+### Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           |                                                  |                                           |
+| MaterialApp      |                                                  |                                           |
+| Scaffold         |                                                  |                                           |
+| StatelessWidget  |                                                  |                                           |
+| StatefulWidget   |                                                  |                                           |
+| Navigator        |                                                  |                                           |
+| AppBar           |                                                  |                                           |
+| Column           |  Vertical layout                                               |                                           |
+| Row              | Horontal layout                                                                                                          |  Wraps context with padding, margin, or color
+| Container        | Displays text                                             |                                           |
+| Text             |                                                  |                                           |
+| Image.network    |                                                  |                                           |
+
+| Padding    |                    |                     |
+
+| Center      |                    |                     |
+
+---
+
+### Layout and Design Widgets
+- How do you center a widget?
+- How do you align something to the left or right?
+- What widget adds space around content?
 
 
 # My Coding Notebook
