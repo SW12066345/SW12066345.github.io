@@ -56,25 +56,25 @@ Copy the guided notes below into your notebook
 
 |------|------------|--------------------------|-------------------|-------------|
 
-|      | A named container used to store a value that may change. | `var x = 5;` |  |  |
+|      | A named container used to store a value that may change. | `var x = 5;` |age/hair  |  |
 
 |      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
 
-|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
+|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |power  |  |
 
-|      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
+|      | A sequence of characters used to represent words or text. | `"Hello World"` | screens |text |comments
 
-|      | Whole number values. | `int age = 16;` |  |  |
+|      | Whole number values. | `int age = 16;` | Fitness Step | Duolingo Strike  | Likes and comments
 
-|      | Number values with decimals. | `double age = 16.2;` |  |  |
+|      | Number values with decimals. | `double age = 16.2;` | Cauculator  | Games | Animation
 
-|      | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
+|      | A value that can be true or false. | `bool isLoggedIn = false;` | Human Confirmation  |Achieve quest| like a video or not
 
-|      | A collection of values in a specific order. | `List<String> names = [];` |  |  |
+|      | A collection of values in a specific order. | `List<String> names = [];` | Phone Number  | Email | Profile
 
-|      | A special value that means “nothing.” | `String? name = null;` |  |  |
+|      | A special value that means “nothing.” | `String? name = null;` |SearchBar  |School Registration  |Being Born
 
-|      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
+|      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Function  |Resuablilty|parameters
 
 |      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
 
