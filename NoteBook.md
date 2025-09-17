@@ -7,7 +7,7 @@
   -  [Layout and Desgin Widgets](layout-and-desgin-widgets)
   -  [Definitons with Strcutures](#flutter-defintion-wtih-strcutres)
   -  [Code Defintions](code-difintions)
-  -  [NoteBookl Style Guidde](#markdown-style-guide-for-coding-notenooks)
+  -  [NoteBook Style Guide](#markdown-style-guide-for-coding-notenooks)
 
 ## Markdown Style Guide for Coding Notebooks
 
