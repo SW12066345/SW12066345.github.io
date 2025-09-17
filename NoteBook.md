@@ -56,47 +56,47 @@ Copy the guided notes below into your notebook
 
 |------|------------|--------------------------|-------------------|-------------|
 
-|      | A named container used to store a value that may change. | `var x = 5;` |age/hair  |  |
+| Variable | A named container used to store a value that may change. | `var x = 5;` |age/hair  |  |
 
-|      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
 
-|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |power  |  |
+| Data type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |power  |  |
 
-|      | A sequence of characters used to represent words or text. | `"Hello World"` | screens |text |comments
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | screens |text |comments
 
-|      | Whole number values. | `int age = 16;` | Fitness Step | Duolingo Strike  | Likes and comments
+| Integer  | Whole number values. | `int age = 16;` | Fitness Step | Duolingo Strike  | Likes and comments
 
-|      | Number values with decimals. | `double age = 16.2;` | Cauculator  | Games | Animation
+| Double | Number values with decimals. | `double age = 16.2;` | Cauculator  | Games | Animation
 
-|      | A value that can be true or false. | `bool isLoggedIn = false;` | Human Confirmation  |Achieve quest| like a video or not
+| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | Human Confirmation  |Achieve quest| like a video or not
 
-|      | A collection of values in a specific order. | `List<String> names = [];` | Phone Number  | Email | Profile
+| List | A collection of values in a specific order. | `List<String> names = [];` | Phone Number  | Email | Profile
 
-|      | A special value that means “nothing.” | `String? name = null;` |SearchBar  |School Registration  |Being Born
+| Null | A special value that means “nothing.” | `String? name = null;` |SearchBar  |School Registration  |Being Born
 
-|      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Function  |Resuablilty|parameters
+| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Function  |Resuablilty|parameters
 
-|      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
+| Parameter     | The information passed into a function to change how it works. | `greet(String name)` |  |  |
 
-|      | The result a function gives back. | `return total;` |  |  |
+| Return     | The result a function gives back. | `return total;` |SchoolWork  |Grading  |
 
-|      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
+| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | School ID |Gift Card  |
 
-|      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
+| class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |Phone  |Computers  |
 
-|      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
+| Object     | A specific version of a class. | `Dog myDog = Dog();` | Any object|  |  |
 
-|      | A variable that belongs to a class/object. | `String name;` |  |  |
+| Property | A variable that belongs to a class/object. | `String name;` |Username  |Keyboard  |
 
-|      | A function that belongs to a class. | `void bark() {}` |  |  |
+|Method | A function that belongs to a class. | `void bark() {}` | Answer questions |Notes  | 
 
-|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+|Constructor| A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
 
-|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+| Abstract | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 
-|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
+| Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 
-|      | A function that does not return a value. | `void printMessage() {}` |  |  |
+| Void | A function that does not return a value. | `void printMessage() {}` | Exit location  | Singing out of device |
 ---
 
 ### Layout and Design Widgets
