@@ -1,10 +1,13 @@
-## Table of Contents
-- Flutter Notes
-  - What is flutter Notes?
-  - pratice
-  - Key Terms and Deffinations
-  - Notebook style guide
-  - [Code Definitions](#code_definitions)
+## My coding Notebook
+
+##  Table of Contents
+  - [Flutter Notes](#flutter-notes)
+  - [What is Flutter?](#what-is-flutter)
+  - [Key Terms and Definitions](#key-terms-and-defintions)
+  -  [Layout and Desgin Widgets](layout-and-desgin-widgets)
+  -  [Definitons with Strcutures](#flutter-defintion-wtih-strcutres)
+  -  [Code Defintions](code-difintions)
+  -  [Notenppl Style Giode](#markdown-style-guide-for-coding-notenooks)
 
 ## Markdown Style Guide for Coding Notebooks
 
