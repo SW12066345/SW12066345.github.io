@@ -58,49 +58,27 @@ Copy the guided notes below into your notebook
   Code definiations 
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
-
 |------|------------|--------------------------|-------------------|-------------|
-
 | Variable | A named container used to store a value that may change. | `var x = 5;` |age/hair  |  main.dart title: 'TSA Portfolio',
-
 | Constant | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  | main.dart, const MyPortfolioApp({super.key});
-
 | Data type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |power    main.dart, bool, debugsShowChecked
-
 | String | A sequence of characters used to represent words or text. | `"Hello World"` | screens |text |comments
-
 | Integer  | Whole number values. | `int age = 16;` | Fitness Step | Duolingo Strike  | Likes and comments
-
 | Double | Number values with decimals. | `double age = 16.2;` | Cauculator  | Games | Animation
-
 | Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | Human Confirmation  |Achieve quest| like a video or not
-
 | List | A collection of values in a specific order. | `List<String> names = [];` | Phone Number  | Email | Profile
-
 | Null | A special value that means “nothing.” | `String? name = null;` |SearchBar  |School Registration  |Being Born
-
 | Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Function  |Resuablilty|parameters
-
 | Parameter     | The information passed into a function to change how it works. | `greet(String name)` |  |  |
-
 | Return     | The result a function gives back. | `return total;` |SchoolWork  |Grading  |
-
 | Scope | Where a variable or function can be used. | (No set syntax — concept-based) | School ID |Gift Card  |
-
 | class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |Phone  |Computers  |
-
 | Object     | A specific version of a class. | `Dog myDog = Dog();` | Any object|  |  |
-
 | Property | A variable that belongs to a class/object. | `String name;` |Username  |Keyboard  |
-
 |Method | A function that belongs to a class. | `void bark() {}` | Answer questions |Notes  | 
-
 |Constructor| A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-
 | Abstract | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-
 | Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-
 | Void | A function that does not return a value. | `void printMessage() {}` | Exit location  | Singing out of device |
 ---
 
@@ -135,7 +113,7 @@ Copy the guided notes below into your notebook
 |Buildcontext| Required in every widget class to describe what to show. | `build` |  |  |
 |super.key | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
 | const | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
-|      | A keyword that means the value won't change and is set once. | `const` |  |  |
+|| A keyword that means the value won't change and is set once. | `const` |  |  |
 
 # My Coding Notebook
 ## Day 1
