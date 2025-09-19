@@ -140,23 +140,23 @@ Copy the guided notes below into your notebook
 
 |StateFul Widget | A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` |  |  |
 
-|      | Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` |  |  |
+| Padding | Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` |  |  |
 
-|      | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
+|Center| Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
 
-|      | Aligns content in the center of the screen or container. | `Center(child: ...)` |  |  |
+|     | Aligns content in the center of the screen or container. | `Center(child: ...)` |  |  |
 
-|      | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` |  |  |
+| Wrap| Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` |  |  |
 
-|      | This marks a method as one that’s replacing a method in a parent class. | `@override` |  |  |
+|@overide| This marks a method as one that’s replacing a method in a parent class. | `@override` |  |  |
 
-|      | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |  |  |
+|Build| The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |  |  |
 
-|      | Required in every widget class to describe what to show. | `build` |  |  |
+|Buildcontext| Required in every widget class to describe what to show. | `build` |  |  |
 
-|      | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
+|super.key | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
 
-|      | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
+| const | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
 
 |      | A keyword that means the value won't change and is set once. | `const` |  |  |
 
