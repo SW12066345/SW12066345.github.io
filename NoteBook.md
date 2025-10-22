@@ -81,6 +81,13 @@ Copy the guided notes below into your notebook
 | Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 | Void | A function that does not return a value. | `void printMessage() {}` | Exit location  | Singing out of device |
 ---
+| Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |  |  |
+| import Scanner| Gives access to Scanner class, required at top|import java.util.Scanner; |  |  |
+| Print Statement| prints the content in the pararenthesis, adds line after |System.out.printIn('' ''); |  |  |
+| Input | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |  |  |
+|  |  | Scanner in = new Scanner(System.in); |  |  |
+|  |  | Scanner in = new Scanner(System.in); |  |  |
+|  |  | Scanner in = new Scanner(System.in); |  |  |
 
 ### Layout and Design Widgets
 - How do you center a widget?
