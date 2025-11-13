@@ -80,6 +80,8 @@ Copy the guided notes below into your notebook
 | Abstract | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 | Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 | Void | A function that does not return a value. | `void printMessage() {}` | Exit location  | Singing out of device |
+| Algorithms | Define step by step processes to follow when completing a task or solving a problem | no syntax | Make a grilled cheese | Verify user |
+| Sequencing | Define an order for when steps in an algorithm are completed | Follows 1, 2, 3 | which step comes first in making a grilled cheese | Get bread, add butter, add cheese |
 ---
 | Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); |  |  |
 | import Scanner| Gives access to Scanner class, required at top|import java.util.Scanner; |  |  |
